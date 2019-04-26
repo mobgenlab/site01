@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/site01/static/media/Ribbons01_138_optimized.4141fdfe.png"
   },
   {
-    "revision": "f1c3c0ab454b66d03484",
+    "revision": "6babb22303444478c75a",
     "url": "/site01/static/css/main.8ce74bc8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/site01/static/media/Graphik-Medium.9cfe11c1.ttf"
   },
   {
-    "revision": "ca7e266603ebf0910f20",
-    "url": "/site01/static/js/2.8481590e.chunk.js"
+    "revision": "b8d2730c715da0a20bda",
+    "url": "/site01/static/js/2.c3d1ee6f.chunk.js"
   },
   {
     "revision": "2bbc8e99d43f98d28f414fbef05fc12a",
@@ -416,8 +416,8 @@ self.__precacheManifest = [
     "url": "/site01/static/media/Ribbons01_137_optimized.c62e5fb9.png"
   },
   {
-    "revision": "f1c3c0ab454b66d03484",
-    "url": "/site01/static/js/main.df0bcb11.chunk.js"
+    "revision": "6babb22303444478c75a",
+    "url": "/site01/static/js/main.38ceb8ff.chunk.js"
   },
   {
     "revision": "740bef7450e6dba382509948d960ef8a",
@@ -828,11 +828,11 @@ self.__precacheManifest = [
     "url": "/site01/static/media/logo-01-bottom.76b51ad7.png"
   },
   {
-    "revision": "ca7e266603ebf0910f20",
+    "revision": "b8d2730c715da0a20bda",
     "url": "/site01/static/css/2.d668de06.chunk.css"
   },
   {
-    "revision": "2335db555baafdec14cc291da9a01951",
+    "revision": "ce0b7955e7e03dd06a4adbb68298cb92",
     "url": "/site01/index.html"
   }
 ];
