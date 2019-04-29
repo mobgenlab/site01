@@ -1632,20 +1632,20 @@ self.__precacheManifest = [
     "url": "/site01/static/media/Graphik-Medium.ac398aae.eot"
   },
   {
-    "revision": "8439076053cd834aea0c434074556109",
-    "url": "/site01/static/media/Graphik-Medium.84390760.woff"
-  },
-  {
     "revision": "2ca4c9fcc1ad6864928d40f273fa7e4a",
     "url": "/site01/static/media/Graphik-Bold.2ca4c9fc.woff2"
   },
   {
-    "revision": "9cfe11c1f5495347ebb511fe911af6d1",
-    "url": "/site01/static/media/Graphik-Medium.9cfe11c1.ttf"
+    "revision": "8439076053cd834aea0c434074556109",
+    "url": "/site01/static/media/Graphik-Medium.84390760.woff"
   },
   {
     "revision": "d98ed4b8c033815b10842bdac8c69372",
     "url": "/site01/static/media/Graphik-Bold.d98ed4b8.woff"
+  },
+  {
+    "revision": "9cfe11c1f5495347ebb511fe911af6d1",
+    "url": "/site01/static/media/Graphik-Medium.9cfe11c1.ttf"
   },
   {
     "revision": "a2ad888ee7706e84cb509d5a9cce6f1b",
